@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ArBoss-dot
-- 👀 I’m interested in IOT/Embedded system 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on technology
-- 📫 How to reach me arjun10000k@gmail.com
+- 👀 interested in IOT/Embedded system 
+- 🌱 Good at learning C++
+- 💞️ looking to collaborate on technology
+- 📫 reach me at arjun10000k@gmail.com
 
 <!---
 ArBoss-dot/ArBoss-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
